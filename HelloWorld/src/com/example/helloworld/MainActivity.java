@@ -10,6 +10,7 @@ public class MainActivity extends Activity {
 
 	private  Button mBtnLoginSure;
 	private  String avb;
+	private  int ins;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
