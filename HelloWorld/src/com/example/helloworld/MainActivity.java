@@ -9,6 +9,7 @@ import android.widget.Button;
 public class MainActivity extends Activity {
 
 	private  Button mBtnLoginSure;
+	private  String avb;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
